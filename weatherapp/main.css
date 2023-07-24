@@ -1,0 +1,22 @@
+body {
+    background: #232b31;
+    letter-spacing: 0.2em;
+    font-size: 0.8em;
+}
+
+.container {
+    max-width: 500px;
+    position: relative;
+    background-color: rgb(200, 212, 208);
+    border-radius: 1%;
+    padding: 1em;
+    border: 10px black;
+}
+
+.icon {
+    position: relative;
+    top: -50px;
+    border-radius: 50%;
+    width: 100px;
+    margin-bottom: -50px;
+}
